@@ -22,14 +22,14 @@ h1{
     display: block;
     width: 400px;
     height: 200px;
-    background-color: brown; 
+    background-color: grey; 
     z-index: 10;
 }
 
 .hill{
     display: block;
     position: fixed;
-    background-color: brown; 
+    background-color: grey; 
     border: 1px solid black;
     transform: rotate(45deg);
     width: 120px;
